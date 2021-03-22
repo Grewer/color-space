@@ -1,5 +1,5 @@
 {
-  "name": "color-space",
+  "name": "@grewer/color-space",
   "description": "Color space conversions and data",
   "version": "1.16.0",
   "author": "Deema Yvanow <dfcreative@gmail.com>",
